@@ -1,0 +1,1 @@
+# AI_Trained_Model_Hand_Sign
